@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data.txt</file>
+        <file>Doctor_Minh.txt</file>
+    </qresource>
+</RCC>

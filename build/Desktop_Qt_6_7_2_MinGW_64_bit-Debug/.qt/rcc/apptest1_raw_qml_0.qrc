@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/test1/">
+    <file alias="Main.qml">D:/Minhh/Learn/QT_creator/PBL/test1/Main.qml</file>
+    <file alias="test1qrc.qrc">D:/Minhh/Learn/QT_creator/PBL/test1/test1qrc.qrc</file>
+  </qresource>
+</RCC>
+
